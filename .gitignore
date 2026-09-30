@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# WhatsApp session
+.whatsapp_profile/
+whatsapp_profile/
+whatsapp_session/
+
+# Contact data
+contacts.xlsx
+
+# Generated screenshots
+screenshots/
+debug/
+whatsapp_screenshots/
+
+# Generated reports
+whatsapp_report_*.json
+whatsapp_report_*.xlsx
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
